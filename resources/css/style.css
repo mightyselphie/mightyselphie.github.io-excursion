@@ -13,6 +13,13 @@ h3 {
   font-size: 16px;
 }
 
+h2 {
+  color: white;
+  font-size: 42px;
+  font-weight: 300;
+  text-align: center;
+}
+
 .header {
   text-align: center;
 }
@@ -23,5 +30,15 @@ h3 {
 }
 
 .video {
+  text-align: center;
+}
+
+.camping {
+  color: gray;
+  text-align: center;
+  font-size: 21px;
+}
+
+.footer {
   text-align: center;
 }
