@@ -1,0 +1,23 @@
+html
+
+* {
+  font-family: verdana, sans-serif;
+}
+
+body {
+  background-color: black;
+}
+
+h3 {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+.header {
+  text-align: center;
+}
+
+.header h1 {
+  font-size: 50px;
+  color: white;
+}
