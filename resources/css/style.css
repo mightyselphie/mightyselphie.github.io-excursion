@@ -46,3 +46,8 @@ a {
 .footer {
   text-align: center;
 }
+
+.conditions {
+  color: gray;
+  text-align: right;
+  font-size: 21px;
