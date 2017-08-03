@@ -10,6 +10,7 @@ body {
 
 h3 {
   font-size: 16px;
+  color: aquamarine;
 }
 
 h2 {
@@ -20,7 +21,7 @@ h2 {
 }
 
 a {
-  color: yellow;
+  color: aquamarine;
 }
 
 .header {
